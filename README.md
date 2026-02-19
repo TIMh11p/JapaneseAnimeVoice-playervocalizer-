@@ -10,6 +10,8 @@
 音效不會被播放，我不太確定為甚麼，可能要問模組作者
 但我從GUI來看，會看到我的PACK是被載入的
 
+之後我會測試是否因為yes steve model導致
+
 # 有什麼音效 ? :
 中毒痛苦
 一般痛苦
@@ -19,3 +21,15 @@
 
 我原本想用metal pipe來當重攻擊音效，但我怕侵權所以不用惹
 因此你會看到EMPTY喔⚠️
+
+# 如何使用
+1 下載下來壓縮
+2 找到你的FORGE裡你的設定檔
+3 在你的設定檔打開資料夾
+理論上來說，打開後會是
+** C:\Users\User\curseforge\minecraft\Instances\你的設定檔名字 **
+4 找到config資料夾
+5 進去後找playervocalizer，如果沒有，確保你有安裝playervocalizer並且有啟動過一次遊戲
+6 點進去後找到voicepacks
+7 匯入
+8 完成🥺❤️
