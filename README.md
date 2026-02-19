@@ -2,6 +2,7 @@
 你可以當作playervocalizer的pack
 
 基本上來說，我看這模組中好像還沒有人上傳自己做的pack，那我無聊用一個吧
+
 音效都來自:効果音ラボ。請多多支持他喔
 
 大部分音效重複且很少，對我來說不算一個好pack，期待有大神出來
@@ -24,12 +25,19 @@
 
 # 如何使用
 1 下載下來壓縮
+
 2 找到你的FORGE裡你的設定檔
+
 3 在你的設定檔打開資料夾
 理論上來說，打開後會是
 ** C:\Users\User\curseforge\minecraft\Instances\你的設定檔名字 **
+
 4 找到config資料夾
+
 5 進去後找playervocalizer，如果沒有，確保你有安裝playervocalizer並且有啟動過一次遊戲
+
 6 點進去後找到voicepacks
+
 7 匯入
+
 8 完成🥺❤️
