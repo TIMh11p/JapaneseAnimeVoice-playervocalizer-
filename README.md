@@ -1,0 +1,2 @@
+# JapaneseAnimeVoice-playervocalizer-
+你可以當作playervocalizer的pack
